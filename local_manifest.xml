@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+        <remote name="Sensei205"
+        fetch="https://github.com/Sensei205" />
+
+        <!-- Sync trees -->
+        <project path="device/xiaomi/onclite" name="android_device_xiaomi_onclite" remote="Sensei205" revision="fluid-12.1" />
+        <project path="vendor/xiaomi/onclite" name="android_vendor_xiaomi_onclite" remote="Sensei205" revision="lineage-19.1" />
+        <project path="kernel/xiaomi/onclite" name="android_kernel_xiaomi_onclite" remote="Sensei205" revision="lineage-19.1" />
+        
+</manifest>
