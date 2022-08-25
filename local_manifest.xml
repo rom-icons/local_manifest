@@ -11,5 +11,7 @@
         <project path="device/xiaomi/onclite" name="Xiaomi-Redmi-7-Y3/android_device_xiaomi_onclite1" remote="all" revision="lineage-19.1" />
         <project path="vendor/xiaomi/onclite" name="Sensei205/android_vendor_xiaomi_onclite" remote="all" revision="lineage-19.1" />
         <project path="kernel/xiaomi/onclite" name="LineageOS/android_kernel_xiaomi_onclite" remote="all" revision="lineage-19.1" />
+        <remove-project name="LineageOS/android" />
+        <project path="android" name="ExodusOS/android-1" remote="all" revision="lineage-19.1" />
         
 </manifest>
