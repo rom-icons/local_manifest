@@ -8,9 +8,9 @@
 
     
     <!-- Sync trees -->
-    <project path="device/xiaomi/onclite" name="Sensei205/device_xiaomi_onclite-S" remote="all" revision="aicp" />
-    <project path="vendor/xiaomi/onclite" name="Sensei205/vendor_xiaomi_onclite-S" remote="all" revision="snow" />
-    <project path="kernel/xiaomi/onclite" name="afterallafk/sinsperf_kernel_xiaomi_onclite" remote="all" revision="12.1" />
+    <project path="device/xiaomi/onclite" name="Xiaomi-Redmi-7-Y3/device_xiaomi_onclite-12" remote="all" revision="aicp" />
+    <project path="vendor/xiaomi/onclite" name="Sensei205/android_vendor_xiaomi_onclite_13" remote="all" revision="12" />
+    <project path="kernel/xiaomi/onclite" name="Xiaomi-Redmi-7-Y3/android_kernel_xiaomi_onclite" remote="all" revision="lineage-19.1" />
     
     <!-- HALs -->
     <remove-project name="LineageOS/android_hardware_qcom_audio" />
